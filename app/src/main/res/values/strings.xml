@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test Task App</string>
+    <string name="hello_value">HELLO</string>
+</resources>
